@@ -1,0 +1,15 @@
+{
+  "name": "server_practice",
+  "version": "0.0.0",
+  "description": "server-practice",
+  "main": "app.js",
+  "author": {
+    "name": "30020885",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
